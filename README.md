@@ -4,3 +4,8 @@ University Course Project exploring the grokking phenomenon in neural networks -
 ### Tasks/Datasets Used
 - Wine Quality Dataset (Tabular Data Classification)
 - MNIST (Image Classification)
+
+### Contributors
+ - Jasper Nie (20285349)
+ - Vincent Hung (20273117)
+ - Brandon Cheng (20269419)
